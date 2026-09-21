@@ -10,7 +10,7 @@ Code and demos for _windfoil_, a method for filling 2D vector shapes built from 
 
 You can see a demo of this here:
 
-https://texel-org.github.io/windfoil/
+https://texel-org.github.io/windfoil-algorithm/
 
 ## Running Locally
 
@@ -80,14 +80,14 @@ See the [`./bench`](./bench/) folder for full results, but at a glance: Slug is 
 
 If you reference this work, you can cite it as:
 
-> Matt DesLauriers. _Windfoil: per-pixel winding and analytic anti-aliasing for 2D vector shapes._ 2026. https://github.com/texel-org/windfoil
+> Matt DesLauriers. _Windfoil: per-pixel winding and analytic anti-aliasing for 2D vector shapes._ 2026. https://github.com/texel-org/windfoil-algorithm
 
 ```bibtex
 @misc{deslauriers2026windfoil,
   author       = {DesLauriers, Matt},
   title        = {Windfoil: per-pixel winding and analytic anti-aliasing for 2D vector shapes},
   year         = {2026},
-  howpublished = {\url{https://github.com/texel-org/windfoil}}
+  howpublished = {\url{https://github.com/texel-org/windfoil-algorithm}}
 }
 ```
 
